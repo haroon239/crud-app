@@ -1,0 +1,76 @@
+body{
+    background-color: aqua;
+}
+
+form{
+    margin-left: 30%;
+    margin-top: 50px;
+}
+.label{
+    display: block;
+    margin: 5px 0px 5px 0px;
+}
+input{
+    width: 40%;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.butto{
+    width: 13%;
+    height: 25px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: blueviolet;
+}
+.submit{
+    margin-top: 20px;
+    width: 13%;
+    height:25px ;
+    margin-left:30% ;
+    background-color: rgb(168, 168, 38);
+    cursor: pointer;
+}
+
+table{
+    /* border: 1px solid  black; */
+    margin-left: 23%;
+    width: 520px;
+    height: 200px;
+    margin-top: 50px;
+}
+
+table thead th{
+    color: black;
+    padding-left: 0px;
+ border: 1px solid black;
+ margin-left: 20px;
+ width: 49px;
+ height: 30px;
+
+}
+
+table tbody tr td{
+    color: black;
+    padding-left: 0px;
+ border: 1px solid black;
+ margin-left: 20px;
+ width: 49px;
+ height: 30px;
+}
+table tbody td .lin{
+    background-color: rgb(208, 226, 43);
+    border: none;
+    width: 60px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 8px;
+
+}
+
+table tbody td .lin a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
